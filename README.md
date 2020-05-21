@@ -8,6 +8,6 @@ Areas explored in the research paper include:
 + Cloud OS security concerns such as phishing attacks against browser-led OSs that run TLS, XML wrapper attacks, kernel attacking malware, DDOS attacks
 + Cloud OS security measures such as Hypersafe systems that lock down write-protected areas of memory, VM checkpoints, Malware that requires authentication signatures and repeatedly checks page table integrity
 
-## Contributors
+## Authors
 
-This project was a collaboration with my classmate Chad Ross 
+This project was a collaboration with my classmate Chad Ross: github.com/cross20 
